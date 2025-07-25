@@ -32,7 +32,7 @@ Below are the tasks I am working on — each is in a separate folder with its ow
 | Task | Status | Description |
 |------|--------|--------------|
 | ✅ Task 1 | Complete | **Exploring and Visualizing the Iris Dataset** — EDA, histograms, scatter plots, box plots |
-| ✅ Task 2 | In Progress | **Stock Price Prediction** — Time series, regression, yfinance API |
+| ✅ Task 2 | Completed | **Stock Price Prediction** — Time series, regression, yfinance API |
 | 🟡 Task 3 | In Progress | **Heart Disease Prediction** — Binary classification, EDA, Logistic Regression |
 | ⚪ Task 4 | Planned | **General Health Chatbot** — LLM prompt engineering with OpenAI/Hugging Face |
 | ⚪ Task 5 | Planned | **Mental Health Chatbot** — Fine-tuned empathetic chatbot using Hugging Face |
